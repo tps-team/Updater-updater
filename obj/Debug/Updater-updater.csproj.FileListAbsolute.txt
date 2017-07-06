@@ -1,0 +1,5 @@
+D:\vs\Projects\updater\Updater-updater\Updater-updater\bin\Debug\Updater-updater.exe.config
+D:\vs\Projects\updater\Updater-updater\Updater-updater\bin\Debug\Updater-updater.exe
+D:\vs\Projects\updater\Updater-updater\Updater-updater\bin\Debug\Updater-updater.pdb
+D:\vs\Projects\updater\Updater-updater\Updater-updater\obj\Debug\Updater-updater.exe
+D:\vs\Projects\updater\Updater-updater\Updater-updater\obj\Debug\Updater-updater.pdb
